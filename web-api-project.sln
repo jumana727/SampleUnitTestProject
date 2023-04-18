@@ -5,10 +5,6 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample-api", "sample-api\sample-api.csproj", "{EC7AC88E-8C33-4EC0-BEE9-546122ED10BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample-api.Test", "Sample-api.Test\Sample-api.Test.csproj", "{5EF3316A-BF31-4BE8-BA7E-9DFA6D643878}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stackup.Api.Test", "Stackup.Api.Test\Stackup.Api.Test.csproj", "{EBAF4605-1918-4209-B302-47A3FC83ABE9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCart.Api.Test", "ShoppingCart.Api.Test\ShoppingCart.Api.Test.csproj", "{B42A3915-993C-4A15-9A4D-48BB81343A72}"
 EndProject
 Global
