@@ -49,7 +49,7 @@ namespace ProjectNamespace.Test
             IActionResult result = controller.GetProducts();
             var resultObj = result as OkObjectResult;
             var products = resultObj.Value as List<Product>;
-            products.Count().Should().Be(2);
+            products.Count().Should().Be(3);
         }
 
         [TestMethod]
