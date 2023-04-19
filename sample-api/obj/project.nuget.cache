@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JXjByO8mHq88p1zuSSLreyXTIxsEoikoXOq+nw29pscjIjPEr3g/ja0WgLzrPc730nqeF1pPmjMjpko6APOAwA==",
+  "dgSpecHash": "JgdD5Fl1y/pYHgfT+/cpj45CLN1PQfdxvQyweYi86jGhFzwiLijYKoq8VkxuDmmvGMofT17vwr+QoMi8Dp3Gnw==",
   "success": true,
-  "projectFilePath": "/Users/jumanajambughoda/ApiProject/sample-api/sample-api.csproj",
+  "projectFilePath": "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/sample-api/sample-api.csproj",
   "expectedPackageFiles": [
     "/Users/jumanajambughoda/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "/Users/jumanajambughoda/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

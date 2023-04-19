@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jumanajambughoda/ApiProject/ShoppingCart.Api.Test/ShoppingCart.Api.Test.csproj": {}
+    "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/ShoppingCart.Api.Test/ShoppingCart.Api.Test.csproj": {}
   },
   "projects": {
-    "/Users/jumanajambughoda/ApiProject/sample-api/sample-api.csproj": {
+    "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/sample-api/sample-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jumanajambughoda/ApiProject/sample-api/sample-api.csproj",
+        "projectUniqueName": "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/sample-api/sample-api.csproj",
         "projectName": "sample-api",
-        "projectPath": "/Users/jumanajambughoda/ApiProject/sample-api/sample-api.csproj",
+        "projectPath": "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/sample-api/sample-api.csproj",
         "packagesPath": "/Users/jumanajambughoda/.nuget/packages/",
-        "outputPath": "/Users/jumanajambughoda/ApiProject/sample-api/obj/",
+        "outputPath": "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/sample-api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jumanajambughoda/.nuget/NuGet/NuGet.Config"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "/Users/jumanajambughoda/ApiProject/ShoppingCart.Api.Test/ShoppingCart.Api.Test.csproj": {
+    "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/ShoppingCart.Api.Test/ShoppingCart.Api.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jumanajambughoda/ApiProject/ShoppingCart.Api.Test/ShoppingCart.Api.Test.csproj",
+        "projectUniqueName": "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/ShoppingCart.Api.Test/ShoppingCart.Api.Test.csproj",
         "projectName": "ShoppingCart.Api.Test",
-        "projectPath": "/Users/jumanajambughoda/ApiProject/ShoppingCart.Api.Test/ShoppingCart.Api.Test.csproj",
+        "projectPath": "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/ShoppingCart.Api.Test/ShoppingCart.Api.Test.csproj",
         "packagesPath": "/Users/jumanajambughoda/.nuget/packages/",
-        "outputPath": "/Users/jumanajambughoda/ApiProject/ShoppingCart.Api.Test/obj/",
+        "outputPath": "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/ShoppingCart.Api.Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jumanajambughoda/.nuget/NuGet/NuGet.Config"
@@ -92,8 +92,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/jumanajambughoda/ApiProject/sample-api/sample-api.csproj": {
-                "projectPath": "/Users/jumanajambughoda/ApiProject/sample-api/sample-api.csproj"
+              "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/sample-api/sample-api.csproj": {
+                "projectPath": "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/sample-api/sample-api.csproj"
               }
             }
           }

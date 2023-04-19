@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CP8sGvWa12iyFx+qkw3k2GmmQY3PIZ06zX+5spVKtGkxqY2rFI0zMwLSW0x7INgpDZlx7csjkI3zw0XYMly8pQ==",
+  "dgSpecHash": "mUmahGb4Qz3Rf0dSp5cJjCG0Hn+L4uZ5mrRwgrS84mci1MgQ8c+uPgDm+PMtvLx6kks47UcRVkUv0rGM/2PdPA==",
   "success": true,
-  "projectFilePath": "/Users/jumanajambughoda/ApiProject/ShoppingCart.Api.Test/ShoppingCart.Api.Test.csproj",
+  "projectFilePath": "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/ShoppingCart.Api.Test/ShoppingCart.Api.Test.csproj",
   "expectedPackageFiles": [
     "/Users/jumanajambughoda/.nuget/packages/castle.core/4.3.1/castle.core.4.3.1.nupkg.sha512",
     "/Users/jumanajambughoda/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
