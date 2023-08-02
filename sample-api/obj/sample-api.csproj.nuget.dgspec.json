@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/sample-api/sample-api.csproj": {}
+    "/Users/jumanajambughoda/Unit Testing Projects/dotnet-rest-api-app/asp.net-web-api/sample-api/sample-api.csproj": {}
   },
   "projects": {
-    "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/sample-api/sample-api.csproj": {
+    "/Users/jumanajambughoda/Unit Testing Projects/dotnet-rest-api-app/asp.net-web-api/sample-api/sample-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/sample-api/sample-api.csproj",
+        "projectUniqueName": "/Users/jumanajambughoda/Unit Testing Projects/dotnet-rest-api-app/asp.net-web-api/sample-api/sample-api.csproj",
         "projectName": "sample-api",
-        "projectPath": "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/sample-api/sample-api.csproj",
+        "projectPath": "/Users/jumanajambughoda/Unit Testing Projects/dotnet-rest-api-app/asp.net-web-api/sample-api/sample-api.csproj",
         "packagesPath": "/Users/jumanajambughoda/.nuget/packages/",
-        "outputPath": "/Users/jumanajambughoda/dotnet-rest-api-app/asp.net-web-api/sample-api/obj/",
+        "outputPath": "/Users/jumanajambughoda/Unit Testing Projects/dotnet-rest-api-app/asp.net-web-api/sample-api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jumanajambughoda/.nuget/NuGet/NuGet.Config"
@@ -20,6 +20,7 @@
           "net7.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.304/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
         }
       }
     }
